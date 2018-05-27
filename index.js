@@ -23,7 +23,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(num){
   var arr = []
-  num += 1 //acounts for the fact that do loop WILL run once
+  //num += 1 //acounts for the fact that do loop WILL run once
   do{
     arr.push("I love the Beatles!")
     num++
