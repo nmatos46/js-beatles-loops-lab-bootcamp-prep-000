@@ -5,4 +5,5 @@ function theBeatlesPlay(musicPPL,musicTools){
     str = musicPPL[i] + " plays " + musicTools[i]
     arr.push(str)
   }
+  return arr
 }
