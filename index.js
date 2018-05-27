@@ -15,7 +15,7 @@ function johnLennonFacts(facts){
   var i = 0 //counter used in while loop condition statement
  
   while (i < facts.length){
-    arr.push(facts[i]) 
+    arr.push(facts[i] + "!!!") 
     i++
   }
 }
