@@ -3,6 +3,6 @@ function theBeatlesPlay(musicPPL,musicTools){
   var arr = []
   for (var i=0; i<musicPPL.length; i++){
     str = musicPPL[i] + " plays " + musicTools[i]
-    arr.push()
+    arr.push(str)
   }
 }
