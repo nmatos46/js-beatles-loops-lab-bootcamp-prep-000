@@ -25,9 +25,9 @@ function iLoveTheBeatles(num){
   var arr = []
   num += 1 //acounts for the fact that do loop WILL run once
   do{
-    arr.push("I love the Beatles")
+    arr.push("I love the Beatles!")
     num++
-  } while (num + 1 < 15)
+  } while (num < 15)
   
   return arr
 }
