@@ -11,7 +11,6 @@ function theBeatlesPlay(musicPPL,musicTools){
 
 function johnLennonFacts(facts){
   var arr = [] //to hold all strings created in while loop
-  var str = "" //to hold string created in one loop iteration
   var i = 0 //counter used in while loop condition statement
  
   while (i < facts.length){
